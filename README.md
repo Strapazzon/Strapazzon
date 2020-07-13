@@ -15,7 +15,7 @@ My name is Getúlio Strapazzon from Brazil (🇧🇷), currently a front-end and
 [![VueJS](https://img.shields.io/badge/-VuesJS-41b884)](https://vuejs.org/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-673399)](https://www.gatsbyjs.org/)
 [![Angular](https://img.shields.io/badge/-AngularJS-red)](https://angularjs.org/)
-[![Angular 2+](https://img.shields.io/badge/-Angular2+-red)](https://angular.io/)
+[![Angular 2+](https://img.shields.io/badge/-Angular2+-c3002f)](https://angular.io/)
 
 #### Mobile App Development Frameworks
 [![reactNative](https://img.shields.io/badge/-ReactNative-61dbfb)](https://reactnative.dev/)
