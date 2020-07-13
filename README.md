@@ -9,7 +9,7 @@ My name is Getúlio Strapazzon from Brazil (🇧🇷), currently a front-end and
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/-Java-c3002f)](https://www.java.com/pt_BR/download/faq/develop.xml)
 
-#### Front-end Web Frameworks
+#### Web Frameworks
 [![react](https://img.shields.io/badge/-React-61dbfb)](https://reactjs.org/docs/getting-started.html)
 [![Next](https://img.shields.io/badge/-Next-37b47f)](https://nextjs.org/)
 [![VueJS](https://img.shields.io/badge/-VuesJS-41b884)](https://vuejs.org/)
