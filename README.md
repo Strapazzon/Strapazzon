@@ -2,7 +2,7 @@
 
 My name is Getúlio Strapazzon from Brazil (🇧🇷), currently a front-end and mobile developer.
 
-👨‍💻 I’m  working at [Significa.co](https://significa.co/)
+👨‍💻 I’m  working on [Significa.co](https://significa.co/)
 
 #### Languages
 [![javascrit](https://img.shields.io/badge/-JavaScript-f2e05a)](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
