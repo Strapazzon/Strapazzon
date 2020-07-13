@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Strapazzon/Strapazzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Getúlio Strapazzon from Brazil (🇧🇷), currently a front-end and mobile developer.
 
-Here are some ideas to get you started:
+👨‍💻 I’m  working at [Significa.co](https://significa.co/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+[![javascrit](https://img.shields.io/badge/-JavaScript-f2e05a)](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/-Java-red)](https://www.java.com/pt_BR/download/faq/develop.xml)
+
+#### Front-end Web Frameworks
+[![react](https://img.shields.io/badge/-React-61dbfb)](https://reactjs.org/docs/getting-started.html)
+[![Next](https://img.shields.io/badge/-Next-37b47f)](https://nextjs.org/)
+[![VueJS](https://img.shields.io/badge/-VuesJS-41b884)](https://vuejs.org/)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-673399)](https://www.gatsbyjs.org/)
+[![Angular](https://img.shields.io/badge/-AngularJS-red)](https://angularjs.org/)
+[![Angular 2+](https://img.shields.io/badge/-Angular2+-red)](https://angular.io/)
+
+#### Mobile App Development Frameworks
+[![reactNative](https://img.shields.io/badge/-ReactNative-61dbfb)](https://reactnative.dev/)
+[![flutter](https://img.shields.io/badge/-Flutter-blue)](https://flutter.dev/)
+
+### Social Networks
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/strapazzon)](https://www.linkedin.com/in/strapazzon/)
+
