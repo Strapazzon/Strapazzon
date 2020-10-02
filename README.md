@@ -1,6 +1,6 @@
-### Hi there 👋
+### Getúlio Strapazzon 👋
 
-My name is Getúlio Strapazzon from Brazil (🇧🇷), currently a front-end and mobile developer.
+Front-end and mobile developer.
 
 👨‍💻 I’m  working on [Significa.co](https://significa.co/)
 
