@@ -1,4 +1,4 @@
-### Getúlio Strapazzon 👋
+### Getúlio Strapazzon
 
 Front-end and mobile developer.
 
