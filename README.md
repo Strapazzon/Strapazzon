@@ -24,6 +24,6 @@ Front-end and mobile developer.
 ### Social Networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/strapazzon)](https://www.linkedin.com/in/strapazzon/)
 
-| | |
+| Getúlio's github stats | Top Langs |
 | ------------- | ------------- |
 | [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
