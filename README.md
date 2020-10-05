@@ -26,4 +26,4 @@ Front-end and mobile developer.
 
 | Getúlio's github stats | Top Langs |
 | ------------- | ------------- |
-| [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
