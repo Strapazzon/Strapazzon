@@ -28,6 +28,3 @@ Front-end and mobile developer.
 | ------------- | ------------- |
 | [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-| Wakatime week stats |
-| ------------- |
-| [![getulios's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@strapazzon&hide_title=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
