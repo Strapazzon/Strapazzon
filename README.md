@@ -24,7 +24,8 @@ Front-end and mobile developer.
 ### Social Networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/strapazzon)](https://www.linkedin.com/in/strapazzon/)
 
+
 | Github stats | Top langs |
 | ------------- | ------------- |
-| [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true\|https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true\|https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=radical&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=radical&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) |
 
