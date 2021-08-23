@@ -2,7 +2,7 @@
 
 Front-end and mobile developer.
 
-👨‍💻 I’m  working on [Significa.co](https://significa.co/)
+👨‍💻 I’m  working on [Alten](https://alten.pt/) and [Bosch](https://www.bosch.com/)
 
 #### Languages
 [![javascrit](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
