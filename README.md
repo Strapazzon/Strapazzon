@@ -2,8 +2,6 @@
 
 Front-end and mobile developer.
 
-👨‍💻 I’m  working at [Bosch](https://www.bosch.com/)
-
 #### Languages
 [![javascrit](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
