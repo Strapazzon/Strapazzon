@@ -1,26 +1,32 @@
 ### Getúlio Strapazzon
 
-Front-end and mobile developer.
+Bicycle rider and software engineer specializing in product development, my main objective is to craft innovative software.
 
 #### Languages
-[![javascrit](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/pt_BR/download/faq/develop.xml)
+[![javascrit](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 
-#### Web Frameworks
-[![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/docs/getting-started.html)
-[![Next](https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org/)
-[![VueJS](https://img.shields.io/badge/-VuesJS-41b884?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-673399?style=flat-square&logo=Gatsby&logoColor=white)](https://www.gatsbyjs.org/)
-[![Angular](https://img.shields.io/badge/-AngularJS-c3002f?style=flat-square&logo=Angular&logoColor=white)](https://angularjs.org/)
-[![Angular 2+](https://img.shields.io/badge/-Angular2+-c3002f?style=flat-square&logo=AngularJS&logoColor=white)](https://angular.io/)
 
-#### Mobile App Development Frameworks
-[![reactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
-[![flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
+#### Technologies
+[![react](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)](https://reactjs.org/docs/getting-started.html)
+[![Next](https://img.shields.io/badge/-Next-000?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
+[![VueJS](https://img.shields.io/badge/-VuesJS-41b884?style=flat&logo=Vue.js&logoColor=white)](https://vuejs.org/)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-673399?style=flat&logo=Gatsby&logoColor=white)](https://www.gatsbyjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-c3002f?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![Nodejs](https://img.shields.io/badge/-Node-5FA04E?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)](https://astro.build)
+[![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org)
+
+
+#### Mobile Frameworks
+[![reactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=React&logoColor=white)](https://reactnative.dev/)
+[![flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
 ### Social Networks
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/strapazzon)](https://www.linkedin.com/in/strapazzon/)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/strapazzon/)
+[![](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/getulio_strapazzon/)
 
 
 | Github stats | Top langs |
