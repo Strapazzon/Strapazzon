@@ -1,5 +1,3 @@
-![Profile image](./assets/ProfileImage.png)
-
 ### Getúlio Strapazzon
 
 Bicycle rider and software engineer specializing in product development, my main objective is to craft innovative software.
