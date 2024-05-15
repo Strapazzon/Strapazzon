@@ -20,15 +20,15 @@ Bicycle rider and software engineer specializing in product development, my main
 [![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)](https://astro.build)
 [![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org)
 
-#### Mobile Frameworks
+#### Mobile
 
 [![reactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=React&logoColor=white)](https://reactnative.dev/)
 [![flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
-### Social Networks
+### Social
 
 [![linkedin](./assets/Linkedin.png)](https://www.linkedin.com/in/strapazzon/) [![Instagram](./assets/Instagram.png)](https://www.instagram.com/getulio_strapazzon/)
 
-| Github stats                                                                                                                                                                                                                                                     | Top langs                                                                                                                                                                                                                                                      |
+| Stats                                                                                                                                                                                                                                                     | Top langs                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Getúlio's github stats](https://github-readme-stats.vercel.app/api?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=radical&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strapazzon&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=radical&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) |
